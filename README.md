@@ -10,7 +10,7 @@ Jestem doświadczonym elektronikiem z kilkunastoletnim stażem w naprawie komput
 <br>
 <br>
 ## Technologie
-<img align="left" alt="javascript"  />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%23FFFFFF" />
 
 
 <!--
