@@ -20,6 +20,7 @@ Jestem doświadczonym elektronikiem z kilkunastoletnim stażem w naprawie komput
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%23EFD81D.svg?&style=for-the-badge&logo=javascript&logoColor=%23FFFFFF" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs"  />
+<div style="background-color: red; color: white;">node</div>
 
 <!--
 **robi6791/robi6791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
