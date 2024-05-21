@@ -9,7 +9,7 @@ Jestem doświadczonym elektronikiem z kilkunastoletnim stażem w naprawie komput
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com)
 <br>
 ## Technologie
-<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23EFD81D.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/html-%23EFD81D.svg?&style=for-the-badge&logo=html&logoColor=white" />
 
 
 <!--
