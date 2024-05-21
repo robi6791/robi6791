@@ -2,8 +2,6 @@
 
 Jestem doświadczonym elektronikiem z kilkunastoletnim stażem w naprawie komputerów i laptopów (hardware i software), teraz z pasją tworzę nowoczesne strony internetowe z wykorzystaniem HTML, CSS i JavaScript.
 
-<br>
-
 ## Kontakt 
 
 
