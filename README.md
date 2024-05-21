@@ -3,7 +3,7 @@
 Jestem doświadczonym elektronikiem z kilkunastoletnim stażem w naprawie komputerów i laptopów (hardware i software), teraz z pasją tworzę nowoczesne strony internetowe z wykorzystaniem HTML, CSS i JavaScript.
 
 ## Kontakt 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com)
 
 
 
