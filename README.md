@@ -1,4 +1,4 @@
-## Hi there 👋
+## Cześć! Jestem Robert 👋
 
 
 
