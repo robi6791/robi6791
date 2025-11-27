@@ -1,6 +1,7 @@
 <p align="center">
- <img src="https://raw.githubusercontent.com/robi6791/robi6791/banner.png" />
+  <img src="banner.png" alt="ROBERT – Portfolio Banner" />
 </p>
+
 
 <h1 align="center">👋 Cześć, jestem Robert</h1>
 
