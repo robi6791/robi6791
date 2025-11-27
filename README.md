@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="ROBERT – Portfolio Banner" />
+</p>
+
 <h1 align="center">👋 Cześć, jestem Robert</h1>
 
 <p align="center">
