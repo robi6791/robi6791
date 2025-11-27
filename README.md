@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://raw.githubusercontent.com/robi6791/robi6791/main/banner.png" />
+ <img src="https://raw.githubusercontent.com/robi6791/robi6791/banner.png" />
 </p>
 
 <h1 align="center">👋 Cześć, jestem Robert</h1>
