@@ -74,6 +74,103 @@ Tworzę nowoczesne aplikacje i strony w oparciu o:
 
 ---
 
+## 🤖 AI Engineering & Workflow Automation  
+Zaawansowane automatyzacje, integracje API i systemy AI zbudowane w oparciu o n8n, OpenAI oraz Node.js/TypeScript.
+
+---
+
+### 🔥 Technologie & Narzędzia
+
+<p align="left">
+
+  <!-- AI / LLM -->
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white&style=for-the-badge" />
+
+  <!-- Automations -->
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-AE42FF?logo=n8n&logoColor=white&style=for-the-badge" />
+  <img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=white&style=for-the-badge" />
+
+  <!-- Backend -->
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+
+  <!-- Databases -->
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+
+  <!-- Cloud / DevOps -->
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-1D63ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=for-the-badge" />
+
+  <!-- Payments / Email -->
+  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white&style=for-the-badge" />
+  <img alt="PayPal" src="https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=white&style=for-the-badge" />
+  <img alt="Resend" src="https://img.shields.io/badge/Resend-000000?logo=mailgun&logoColor=white&style=for-the-badge" />
+
+</p>
+
+---
+
+## 🧠 AI Engineering — praktyczne zastosowania
+
+- Integracja **OpenAI (GPT-4.1)** w aplikacjach webowych  
+- Systemy automatycznej obsługi klientów (triage + generowanie odpowiedzi)  
+- Tworzenie **agentów AI** do:
+  - klasyfikacji zgłoszeń serwisowych  
+  - automatycznego odpisywania na e-maile  
+  - generowania podsumowań / raportów  
+  - wyszukiwania danych (RAG)  
+- Automatyczne generowanie dokumentów **PDF/HTML z AI**
+
+---
+
+## 🔧 Integracje API
+
+- Stripe / PayPal – płatności + webhooki  
+- Resend – automatyczne wiadomości transakcyjne  
+- Gmail API – automatyzacja korespondencji  
+- Google Drive / Sheets – synchronizacja danych  
+
+---
+
+## ⚙️ n8n — zaawansowane workflow automation
+
+- Budowa rozproszonych procesów automatyzacji:  
+  - routing zgłoszeń (AI → klasyfikacja → CRM → odpowiedź)  
+  - automatyczne wysyłanie ofert / potwierdzeń / statusów  
+  - synchronizacja danych między systemami  
+  - raporty wysyłane automatycznie  
+- Uruchamianie n8n w serwerach VPS (Docker + reverse proxy + SSL)
+
+---
+
+## 🖥 DevOps / Monitoring
+
+- Konteneryzacja automatyzacji (Docker)  
+- CI/CD GitHub → VPS  
+- Alerty (email / WhatsApp / Telegram) 
+---
+
+## 📌 Realne zastosowania, które wdrożyłem
+
+- Automatyczny system obsługi klienta dla serwisu IT (AI + webhooks + Resend)  
+- System e-commerce z płatnościami (Stripe/PayPal) + automatyka statusów zamówień  
+- Inteligentny system zgłoszeń (formularz → AI → klasyfikacja → odpowiedź + zapis do DB)  
+- Workflow monitorujący pracę aplikacji i wysyłający raporty  
+- Pełne flow automatyzacji dla sklepów usługowych (statusy, powiadomienia, płatności)
+
+---
+
+## 📡 Stack AI / Automation
+**OpenAI · n8n · Node.js · Next.js · TypeScript · PostgreSQL · MongoDB · Stripe · PayPal · Resend · Docker · Linux · Webhooks · REST API · OAuth2 · RAG · LangChain**
+
+---
+
+_Chcesz zbudować inteligentny system automatyzacji, integrację API lub agenta AI działającego 24/7? — pisz śmiało._
+
+
 ## 📌 Projekty (wybrane)
 
 🔧 **E-commerce do napraw smartfonów (Next.js + Stripe + PayPal)**  
