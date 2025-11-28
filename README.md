@@ -67,9 +67,14 @@ Tworzę nowoczesne aplikacje i strony w oparciu o:
 
 ### Elektronika / Hardware
 - Diagnostyka & naprawy PC / laptopów  
-- Lutowanie SMD  
+- Lutowanie SMD / BGA  
 - Naprawy kart graficznych  
-- Modernizacje i optymalizacja sprzętu  
+- Modernizacje i optymalizacja sprzętu
+- Diagnostyka płyt głównych (laptopy/PC)
+- Programowanie BIOS/UEFI (SPI Flash, wsad BIOS, ME Region)
+- Naprawy układów zasilania (MOSFET, VRM, przetwornice DC/DC)
+- Pomiar i analiza sygnałów oscyloskopem / multimetr
+- Odzyskiwanie danych z uszkodzonych dysków (HDD/SSD, elektronika dysków)
 
 <br>
 
