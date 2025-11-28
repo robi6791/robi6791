@@ -57,9 +57,13 @@ Tworzę nowoczesne aplikacje i strony w oparciu o:
 <p>
   <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=000" />
-  <img src="https://img.shields.io/badge/Bash-%235391FE?style=for-the-badge&logo=bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-%235391FE?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux%20Server-%230078D4?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtualization-%238A2BE2?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/FileBrowser-%23009999?style=for-the-badge&logo=files&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPS-%2300A8E8?style=for-the-badge&logo=serverfault&logoColor=white" />
 </p>
+
 
 ### Elektronika / Hardware
 - Diagnostyka & naprawy PC / laptopów  
