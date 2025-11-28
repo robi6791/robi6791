@@ -43,7 +43,10 @@ Tworzę nowoczesne aplikacje i strony w oparciu o:
   <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn/ui-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strapi-%232E7EEA?style=for-the-badge&logo=strapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-%23000000?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
+
 
 ### Backend / Bazy
 <p>
